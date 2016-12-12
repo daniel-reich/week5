@@ -1,0 +1,4 @@
+<template>
+  <input-field default="Tomcat 8.5.8">IJ_APPLICATION_SERVER</input-field>
+  <input-field default="mySpringBootApp.controllers">IJ_BASE_PACKAGE</input-field>
+</template>
