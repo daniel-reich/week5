@@ -48,8 +48,8 @@
       <file leaf-file-name="DogTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/Daniel/dog/DogTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -721,7 +721,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481647932018</updated>
-      <workItem from="1481647935653" duration="3231000" />
+      <workItem from="1481647935653" duration="3554000" />
     </task>
     <servers />
   </component>
@@ -744,8 +744,11 @@
     <history-entry file="DogTest_whenFleasAreTooMany - 2016.12.13 at 10h 38m 06s.xml">
       <configuration name="DogTest.whenFleasAreTooMany" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DogTest_whenFleasReceivedThenChangedFleaCount - 2016.12.13 at 10h 25m 04s.xml">
-      <configuration name="DogTest.whenFleasReceivedThenChangedFleaCount" configurationId="JUnit" />
+    <history-entry file="DogTest_whenFleasAreTooMany - 2016.12.13 at 10h 51m 06s.xml">
+      <configuration name="DogTest.whenFleasAreTooMany" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DogTest_whenFleasAreTooMany - 2016.12.13 at 10h 51m 21s.xml">
+      <configuration name="DogTest.whenFleasAreTooMany" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DogTest_whenFleasReceivedThenChangedFleaCount - 2016.12.13 at 10h 28m 04s.xml">
       <configuration name="DogTest.whenFleasReceivedThenChangedFleaCount" configurationId="JUnit" />
@@ -755,7 +758,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3231000" />
+    <option name="totallyTimeSpent" value="3554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="32" width="1276" height="733" extended-state="0" />
@@ -839,8 +842,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/Daniel/dog/DogTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

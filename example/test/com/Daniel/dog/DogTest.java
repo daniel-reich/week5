@@ -20,20 +20,13 @@ public class DogTest {
         assertThat(d.getNumFleas(), equalTo(4) );
     }
 
-    @Test
+    @Test(expected = Exception.class)
     public void whenFleasAreTooMany() throws Exception {
         //Arrnage
         Dog d = new Dog("Jack");
 
         //Act
-        try {
-            d.changeFleas(6000);
-        } catch(Exception e){
-            System.out.println(e);
-        }
-
-        //Assert
-
+        d.changeFleas(6000);
 
     }
 }
