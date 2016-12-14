@@ -1,0 +1,7 @@
+/*C21*/SET SCHEMA PUBLIC
+INSERT INTO VENDORS VALUES(2,'Japanese game company','Sega')
+COMMIT
+INSERT INTO CATEGORIES VALUES(3,'Character passes through obstacles on 2D levels','2D Levels')
+COMMIT
+INSERT INTO GAMES VALUES(2,3,'Blue hedgehog must defeat evil doctor','$30','Sonic',2)
+COMMIT
